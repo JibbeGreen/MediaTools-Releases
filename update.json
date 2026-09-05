@@ -1,5 +1,5 @@
 {
-  "releaseNotes": "Update bug fixes.",
   "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/latest/download/MediaTools.exe",
-  "version": "1.0.1.3"
+  "releaseNotes": "Bug fixes and performance improvements.",
+  "version": "1.0.1.4"
 }
