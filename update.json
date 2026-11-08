@@ -1,5 +1,6 @@
 {
-  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/latest/download/MediaTools.exe",
-  "releaseNotes": "Bug fixes and performance improvements.",
-  "version": "1.0.1.4"
+  "version": "1.0.2.2",
+  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/download/v1.0.2.2/MediaTools_1.0.2.2_x64.msix",
+  "releaseNotes": "New Update Workflow, TrimView uses Slider, Mascot HeyHiHello, menu bar updates",
+  "sha256": "1259C9DDD8D4B4D4FF22A2E536E9B54CB2F4C5FE1B74416510ABC0FCF3F31359"
 }
