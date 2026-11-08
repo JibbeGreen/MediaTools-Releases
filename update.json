@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2.3",
-  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/download/v1.0.2.3/MediaTools_1.0.2.3_x64.msix",
-  "releaseNotes": "Convert View: Video mode allows to audio only",
-  "sha256": "F5A4CA8073253C4B4A1524FF3ECF43040A29C2108E035F828E98E4620589DC0A"
+  "version": "1.0.2.4",
+  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/download/v1.0.2.4/MediaTools_1.0.2.4_x64.msix",
+  "releaseNotes": "Error on Update FIX",
+  "sha256": "D0885B796CE300EA1E2259B04803DFE26142A68F3AB7C9BDFF9ACBBBCA5FDC13"
 }
