@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2.5",
-  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/download/v1.0.2.5/MediaTools_1.0.2.5_x64.msix",
-  "releaseNotes": "Localization",
-  "sha256": "6DFEC577313979EC9CE670D1BA60571993304B08442A19069F9556024A598E4C"
+  "version": "1.0.3.0",
+  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/download/v1.0.3.0/MediaTools_1.0.3.0_x64.msix",
+  "releaseNotes": "Updated package Version",
+  "sha256": "BB60F21A7FE64D77A1A24B54C2DCFD46C32D17E94D9DFC757902C34007ACCE67"
 }
