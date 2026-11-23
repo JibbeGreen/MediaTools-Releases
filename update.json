@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3.1",
-  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/download/v1.0.3.1/MediaTools_1.0.3.1_x64.msix",
-  "releaseNotes": "Local AI, Resizing Options & Script Workplace Improvements",
-  "sha256": "3B76F51A104CEECF4FC78186E422DC86828C844BC1F91D6B7D00C328881933D1"
+  "version": "1.0.3.2",
+  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/download/v1.0.3.2/MediaTools_1.0.3.2_x64.msix",
+  "releaseNotes": "Script Workspace: Tag Improvements",
+  "sha256": "768B7B51212C52745EB806B9E40C867D555AA5491EB23CA6DECAEA7217F1AFF6"
 }
