@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3.3",
-  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/download/v1.0.3.3/MediaTools_1.0.3.3_x64.msix",
-  "releaseNotes": "Script Workspace: Storyboard & EV Improvements",
-  "sha256": "8C0A42239288F002CB18B2258C67C9AC75BCDACA41C6B033EEF6EF61E615CAB8"
+  "version": "1.0.3.4",
+  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/download/v1.0.3.4/MediaTools_1.0.3.4_x64.msix",
+  "releaseNotes": "Merge branch 'development'",
+  "sha256": "C2BD54CD55FDF1EC469F7D500C14A72226005DB502CA5D24AB15601426F7C7E9"
 }
