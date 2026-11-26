@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3.4",
-  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/download/v1.0.3.4/MediaTools_1.0.3.4_x64.msix",
-  "releaseNotes": "Merge branch 'development'",
-  "sha256": "C2BD54CD55FDF1EC469F7D500C14A72226005DB502CA5D24AB15601426F7C7E9"
+  "version": "1.0.3.5",
+  "url": "https://github.com/JibbeGreen/MediaTools-Releases/releases/download/v1.0.3.5/MediaTools_1.0.3.5_x64.msix",
+  "releaseNotes": "Improved LocalAI, Script Improvements, And Bugfixes",
+  "sha256": "2BA9CA59B3B1544D63E87239698185E5F970565513989EE9BD5BA78395488499"
 }
